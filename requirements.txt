@@ -1,0 +1,7 @@
+pyreadstat
+pandas
+python-docx
+openpyxl
+pyyaml
+rapidfuzz
+xlsxwriter
